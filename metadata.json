@@ -1,0 +1,8 @@
+{
+  "name": "Latchwork Clinic & Pharmacy Suite",
+  "description": "Unified clinical operations, real-time e-prescribing, dispensary POS & inventory, patient availability booking, and Gemini AI clinical/financial intelligence with bilingual EN/AR support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
